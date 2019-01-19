@@ -1,2 +1,2 @@
 # requirejs-study
-require 加载案例
+require 按需加载案例
